@@ -1,6 +1,6 @@
 # hamburger_app
 
-A new Flutter application.
+Udemy training app with flutter.
 
 ## Getting Started
 
